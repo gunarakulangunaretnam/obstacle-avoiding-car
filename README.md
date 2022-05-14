@@ -31,11 +31,11 @@ This obstacle-avoiding car is using the Arduino microcontroller as its main moth
 
 ![Diagram](github-readme-contents/demo.gif)
 
-Any Questions? | Conduct Me
+Social Media Links
 ---
 
 * [Linkedin Profile](https://www.linkedin.com/in/gunarakulangunaretnam/)
-* [Facebook Profile](https://www.facebook.com/gunarakulan)
+* [Facebook Page](https://www.facebook.com/gunarakulangunaretnam)
 * [Twitter Profile](https://twitter.com/gunarakulang)
-* [Instagram Profile](https://www.instagram.com/gunarakulan_gunaretnam/)
-* [Youtube Channel](https://www.youtube.com/channel/UCMWkED5sabgVZSCKjZuRJXA/videos)
+* [Instagram Profile](https://www.instagram.com/gunarakulangunaretnam/)
+* [Youtube Channel](https://www.youtube.com/channel/UCMWkED5sabgVZSCKjZuRJXA)
