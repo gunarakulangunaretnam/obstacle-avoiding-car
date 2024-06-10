@@ -31,7 +31,7 @@ This obstacle-avoiding car is using the Arduino microcontroller as its main moth
 
 ![Diagram](github-readme-contents/demo.gif)
 
-# CONTACT
+# Contact
 
 ### Website: 
 
